@@ -45,7 +45,7 @@ Visit the website here:
 
 # Desktop View:
 <img width="2048" height="1160" alt="1746871833607" src="https://github.com/user-attachments/assets/481d4eea-1646-42c4-aaac-fa7c9990d092" />
-## Mobile View: <div> <br> </div>
+# **Mobile View:**  <br> </div>
 <img width="540" height="1000" alt="1746871832283" src="https://github.com/user-attachments/assets/c5490b34-8b2c-49a6-aa4c-b8c15ef36851" />
 
 
